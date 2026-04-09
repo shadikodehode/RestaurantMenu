@@ -1,0 +1,7 @@
+@import url('https://api.fontshare.com/v2/css?f[]=bevellier@300,301,400,401,500,700,900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-bevellier: 'bevellier', sans-serif;
+}
